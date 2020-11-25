@@ -1,6 +1,6 @@
 # Setup Create React App & Tailwindcss v2.0
 
-Source Code for Setup and Install Create React App and & Tailwindcss v2.0 on <a href="https://www.youtube.com/channel/UCSyosm-WcUPT4LnUIIdqSCw" title="Subscribe to CodeWithChu Youtube Channel" target="_blank">CodeWithChu</a> YouTube Channel.
+Source Code for Setup and Install Create React App with Tailwindcss v2.0 on <a href="https://www.youtube.com/channel/UCSyosm-WcUPT4LnUIIdqSCw" title="Subscribe to CodeWithChu Youtube Channel" target="_blank">CodeWithChu</a> YouTube Channel.
 
 ## Install
 
