@@ -14,7 +14,7 @@
 	"scripts": {
 		"start": "npm-run-all start:tailwind -l -p start:p:*",
 		"start:tailwind": "postcss ./src/assets/css/tailwind.src.css -o ./src/assets/css/tailwind.css",
-		"start:p:watch-tailwind": "onchange 'tailwind.config.js' 'src/**/*.css' -e './src/assets/css/tailwind.css' -- npm run start:tailwind",
+		"start:p:watch-tailwind": "onchange \"tailwind.config.js\" \"src/**/*.css\" -e \"./src/assets/css/tailwind.css\" -- npm run start:tailwind",
 		"start:p:react": "react-scripts start",
 		"build": "run-s build:** -l",
 		"build:a:tailwind": "cross-env NODE_ENV=production npm run start:tailwind",
